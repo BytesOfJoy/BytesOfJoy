@@ -12,9 +12,9 @@
 ### 🎮 Player Stats & Equipment
 
 <div align="center">
-  <!-- Stats Cards with Dark Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BytesOfJoy&show_icons=true&theme=dark&rank_icon=github&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesOfJoy&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
+  <!-- Stats Cards with Light Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BytesOfJoy&show_icons=true&theme=default&rank_icon=github&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesOfJoy&layout=compact&theme=default&langs_count=6&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <br>
@@ -44,9 +44,9 @@
 
 ### 🕹️ Contribution Heatmap (The Snake)
 
-<!-- The Snake Animation - Dark Mode Version -->
+<!-- The Snake Animation - Light Mode Version -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
@@ -54,7 +54,7 @@
 ### 📊 Mission Log
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BytesOfJoy&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BytesOfJoy&bg_color=ffffff&color=0969da&line=bc8cff&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
