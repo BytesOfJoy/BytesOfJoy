@@ -2,6 +2,7 @@
 
 <div align="center">
   <h3>Hi there, I'm Eric! (BytesOfJoy) 🕹️</h3>
+  <img src="./assets/khalil_pixel.png" width="120" alt="Pixel Avatar" />
   <p>Embedded Software Engineer | C++ Sorcerer | Hardware Hacker</p>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6495ED&size=20&center=true&vCenter=true&width=500&lines=Initializing+System...;Loading+Modules...;Embedded+C%2B%2B+Engine+Online!;Ready+to+Code!" alt="Typing SVG" /></a>
