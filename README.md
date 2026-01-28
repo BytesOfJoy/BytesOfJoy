@@ -9,7 +9,15 @@
 
 ---
 
-### 🎮 Player Stats & Equipment
+### � Achievements Unlocked
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=BytesOfJoy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+### �🎮 Player Stats & Equipment
 
 <div align="center">
   <!-- Stats Cards with Radical Theme (Cyberpunk vibes) -->
@@ -20,13 +28,24 @@
 <br>
 
 <div align="center">
-  <!-- Tech Stack Badges with Pixel/For-the-badge style -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
-  <img src="https://img.shields.io/badge/RTOS-1a1a1a?style=for-the-badge&logo=freertos&logoColor=white" alt="RTOS" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <h3>🎒 Inventory</h3>
+  
+  <!-- Main Weapon: Languages -->
+  <img src="https://img.shields.io/badge/Main_Weapon-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Secondary-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br>
+  
+  <!-- Core Skills: Embedded -->
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Chipset-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
+  <img src="https://img.shields.io/badge/Kernel-RTOS-1a1a1a?style=for-the-badge&logo=freertos&logoColor=white" alt="RTOS" />
+  <br>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tool-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Sim-Ros-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
 </div>
 
 ---
@@ -36,6 +55,14 @@
 <!-- The Snake Animation - Automatically updated by GitHub Actions -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+### 📊 Mission Log
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BytesOfJoy&bg_color=0D1117&color=6495ED&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
