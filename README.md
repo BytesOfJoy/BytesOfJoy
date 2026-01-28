@@ -9,20 +9,12 @@
 
 ---
 
-### � Achievements Unlocked
+### 🎮 Player Stats & Equipment
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=BytesOfJoy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-### �🎮 Player Stats & Equipment
-
-<div align="center">
-  <!-- Stats Cards with Radical Theme (Cyberpunk vibes) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BytesOfJoy&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesOfJoy&layout=compact&theme=radical&langs_count=6&hide_border=true" height="180" alt="Top Languages" />
+  <!-- Stats Cards with Dark Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BytesOfJoy&show_icons=true&theme=dark&rank_icon=github&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesOfJoy&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
 </div>
 
 <br>
@@ -52,9 +44,9 @@
 
 ### 🕹️ Contribution Heatmap (The Snake)
 
-<!-- The Snake Animation - Automatically updated by GitHub Actions -->
+<!-- The Snake Animation - Dark Mode Version -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
@@ -62,7 +54,7 @@
 ### 📊 Mission Log
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BytesOfJoy&bg_color=0D1117&color=6495ED&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BytesOfJoy&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
