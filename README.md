@@ -68,7 +68,7 @@
 class Eric : public EmbeddedEngineer {
 public:
     Eric() {
-        skills = {"C++", "Embedded Linux", "SLAM", "Robotics"};
+        skills = {"C++", "Embedded Linux"};
         passion = "Pixel Art & Cyberpunk Aesthetics";
         current_quest = "Mastering SLAM algorithms";
     }
