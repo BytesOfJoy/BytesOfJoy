@@ -1,86 +1,101 @@
-# <div align="center">LEVEL UP! 👾</div>
-
 <div align="center">
-  <h3>Hi there, I'm Eric! (BytesOfJoy) 🕹️</h3>
-  <img src="./assets/khalil_pixel.png" width="120" alt="Pixel Avatar" />
-  <p>Embedded Software Engineer | C++ Sorcerer | Hardware Hacker</p>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6495ED&size=20&center=true&vCenter=true&width=500&lines=Initializing+System...;Loading+Modules...;Embedded+C%2B%2B+Engine+Online!;Ready+to+Code!" alt="Typing SVG" /></a>
+  <img src="./assets/arcade-banner.svg" alt="BYTESOFJOY ARCADE" width="100%" />
+</div>
+
+<br/>
+
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/electric-guitar-cutout-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/electric-guitar-cutout.png">
+    <img src="./assets/electric-guitar-cutout.png" height="35" align="center" alt="Electric Guitar Icon" />
+  </picture>
+  &nbsp;ERIC 🎮 &nbsp;|&nbsp; EMBEDDED FIRMWARE RANGER ⚙️
+</h2>
+
+<p><code>[ C++ | EMBEDDED LINUX | RTOS | ARM ]</code></p>
+
+<br/>
+
+> *"放下那曾经，留下那痕迹；前方的你，别忘了自己。" —— 方大同《才二十三》*
+> 
+> 🎶 **代码是记念岁月的节拍，电吉他是有情绪的 C++** 🎸
+
+---
+
+## 🎯 PLAYER STATS
+
+<br/>
+
+<a href="#"><img src="https://img.shields.io/badge/90%25-FF3366?style=for-the-badge&label=++Firmware++&labelColor=101216" /></a>
+<a href="#"><img src="https://img.shields.io/badge/80%25-7EE787?style=for-the-badge&label=++++Linux++++&labelColor=101216" /></a>
+<a href="#"><img src="https://img.shields.io/badge/70%25-FF3366?style=for-the-badge&label=++++RTOS++++&labelColor=101216" /></a>
+<a href="#"><img src="https://img.shields.io/badge/80%25-7EE787?style=for-the-badge&label=++++Debug++++&labelColor=101216" /></a>
+
+---
+
+## 🧰 LOADOUT & WEAPONS
+
+- **Core Weapons:** `C++`, `C`
+- **Toolchain:** `CMake`, `GDB`, `JTAG` ⚡
+- **Side Quest:** Electric Guitar 🎸
+
+---
+
+## 🗺️ QUEST LOG
+
+<details>
+  <summary><b>🕹️ PRESS START (Click to reveal secured logs)</b></summary>
+  <br/>
+  <ul>
+    <li><b>CURRENT:</b> tighten board-level debug 🐛</li>
+    <li><b>NEXT:</b> reusable firmware architecture 🏗️</li>
+    <li><b>RESEARCH:</b> SLAM fundamentals in practice 👁️</li>
+  </ul>
+  <blockquote>
+    <p><em>🔓 <b>EASTER EGG UNLOCKED:</b> "真正的游侠，不只在代码里寻找出路，也在音符中倾听宇宙律动的呼吸。"</em></p>
+  </blockquote>
+</details>
+
+---
+
+### 🏆 INVENTORY DEPOSITS (FEATURED PROJECTS)
+
+| 📦 Artifact Name | 🔮 Class Type | 📜 Lore / Description |
+| :--- | :--- | :--- |
+| 🛡️ [**Firmware-Core-Template**](https://github.com/BytesOfJoy) | `Architecture` | Modular C++ CMake boilerplate for scalable RTOS embedded systems. |
+| ⚔️ [**RTK-Vision-Sync**](https://github.com/BytesOfJoy) | `Robotics` | Microsecond-level synchronized image capture for VIO/RTK fusion. |
+| 🕹️ [**OpenClaw-Dashboard**](https://github.com/BytesOfJoy) | `Fullstack` | 3D visual isometric command center for mechanical hardware. |
+
+---
+
+### 📊 ARCADE LEADERBOARD
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BytesOfJoy&show_icons=true&hide_border=true&bg_color=101216&title_color=FF3366&text_color=e6edf3&icon_color=7EE787" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesOfJoy&layout=compact&hide_border=true&bg_color=101216&title_color=FF3366&text_color=e6edf3" height="165" alt="Top Langs" />
+</p>
+
+---
+
+### 🐍 SNAKE MODE (CONTRIBUTIONS)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
-### 🎮 Player Stats & Equipment
-
+### 📡 COMMS RELAY (MULTIPLAYER MODE)
 <div align="center">
-  <!-- Stats Cards with Light Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BytesOfJoy&show_icons=true&theme=default&rank_icon=github&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesOfJoy&layout=compact&theme=default&langs_count=6&hide_border=true" height="180" alt="Top Languages" />
+  <a href="https://github.com/BytesOfJoy"><img src="https://img.shields.io/badge/GitHub-FF3366?style=for-the-badge&logo=github&logoColor=101216&color=FF3366&labelColor=101216" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-7EE787?style=for-the-badge&logo=linkedin&logoColor=101216&color=7EE787&labelColor=101216" alt="LinkedIn" /></a>
+  <a href="mailto:eric@example.com"><img src="https://img.shields.io/badge/Email-FF3366?style=for-the-badge&logo=gmail&logoColor=101216&color=FF3366&labelColor=101216" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Listening_To-Khalil_Fong-7EE787?style=for-the-badge&logo=applemusic&logoColor=101216&color=7EE787&labelColor=101216" alt="Music" /></a>
 </div>
 
-<br>
+<p align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=BytesOfJoy&color=FF3366&style=for-the-badge&label=ARCADE+VISITORS" alt="Visitor Count" />
+</p>
 
-<div align="center">
-  <h3>🎒 Inventory</h3>
-  
-  <!-- Main Weapon: Languages -->
-  <img src="https://img.shields.io/badge/Main_Weapon-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Secondary-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  
-  <!-- Core Skills: Embedded -->
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Chipset-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
-  <img src="https://img.shields.io/badge/Kernel-RTOS-1a1a1a?style=for-the-badge&logo=freertos&logoColor=white" alt="RTOS" />
-  <br>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Tool-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Sim-Ros-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
-</div>
-
----
-
-### 🕹️ Contribution Heatmap (The Snake)
-
-<!-- The Snake Animation - Light Mode Version -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-### 📊 Mission Log
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BytesOfJoy&bg_color=ffffff&color=0969da&line=bc8cff&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-### 💾 About Me
-
-```c++
-#include <iostream>
-
-class Eric : public EmbeddedEngineer {
-public:
-    Eric() {
-        skills = {"C++", "Embedded Linux"};
-        passion = "Pixel Art & Cyberpunk Aesthetics";
-        current_quest = "Mastering SLAM algorithms";
-    }
-
-    void greet() {
-        std::cout << "Hello World! Welcome to my profile." << std::endl;
-    }
-};
-```
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BytesOfJoy&style=pixel&color=blueviolet" alt="Profile View Counter" />
-</div>
+<br/>
