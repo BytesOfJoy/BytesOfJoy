@@ -1,80 +1,98 @@
-<div align="center">
-  <img src="./assets/arcade-banner.svg" alt="BYTESOFJOY ARCADE" width="100%" />
-</div>
-
-<h2 align="center">
-  ERIC 🎮 &nbsp;|&nbsp; EMBEDDED FIRMWARE RANGER ⚙️
-</h2>
-
-<p align="center">
-  <img src="./assets/1.png" alt="Gengar Pixel Mascot" height="60" />
-</p>
-
-<p align="center"><code>[ C++ | EMBEDDED LINUX | RTOS | ARM ]</code></p>
-
-<p align="center"><em>🎶 "放下那曾经，留下那痕迹；前方的你，别忘了自己。" —— 方大同《才二十三》 🎸</em></p>
-
----
-
-## 🎯 PLAYER STATS
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/90%25-FF3366?style=for-the-badge&label=++Firmware++&labelColor=101216" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/80%25-7EE787?style=for-the-badge&label=++++Linux++++&labelColor=101216" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/70%25-FF3366?style=for-the-badge&label=++++RTOS++++&labelColor=101216" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/80%25-7EE787?style=for-the-badge&label=++++Debug++++&labelColor=101216" /></a>
-</p>
-
----
-
-## 🧰 LOADOUT & WEAPONS
-
-- **Core Weapons:** `C++`, `C`
-- **Toolchain:** `CMake`, `GDB`, `JTAG` ⚡
-
----
-
-## 🗺️ QUEST LOG
-
-<details>
-  <summary><b>🕹️ PRESS START (Click to reveal secured logs)</b></summary>
-  <br/>
-  <ul>
-    <li><b>CURRENT:</b> tighten board-level debug 🐛</li>
-    <li><b>NEXT:</b> reusable firmware architecture 🏗️</li>
-    <li><b>RESEARCH:</b> SLAM fundamentals in practice 👁️</li>
-  </ul>
-  <blockquote>
-    <p><em>🔓 <b>EASTER EGG UNLOCKED:</b> "真正的游侠，不只在代码里寻找出路，也在音符中倾听宇宙律动的呼吸。"</em></p>
-  </blockquote>
-</details>
-
-<p align="center">
-  <img src="./assets/2.png" alt="Psyduck Pixel Mascot" height="60" />
-</p>
-
----
-
-## 📊 ARCADE LEADERBOARD
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BytesOfJoy&show_icons=true&hide_border=true&bg_color=101216&title_color=FF3366&text_color=e6edf3&icon_color=7EE787" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesOfJoy&layout=compact&hide_border=true&bg_color=101216&title_color=FF3366&text_color=e6edf3" height="165" alt="Top Langs" />
-</p>
-
----
-
-## 🐍 SNAKE MODE (CONTRIBUTIONS)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BytesOfJoy/BytesOfJoy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
-## 📡 COMMS RELAY (MULTIPLAYER MODE)
-<div align="center">
-  <a href="https://github.com/BytesOfJoy"><img src="https://img.shields.io/badge/GitHub-FF3366?style=for-the-badge&logo=github&logoColor=101216&color=FF3366&labelColor=101216" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-7EE787?style=for-the-badge&logo=linkedin&logoColor=101216&color=7EE787&labelColor=101216" alt="LinkedIn" /></a>
-  <a href="mailto:eric@example.com"><img src="https://img.shields.io/badge/Email-FF3366?style=for-the-badge&logo=gmail&logoColor=101216&color=FF3366&labelColor=101216" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Listening_To-Khalil_Fong-7EE787?style=for-the-badge&logo=applemusic&logoColor=101216&color=7EE787&labelColor=101216" alt="Music" /></a>
-</div>
+<table align="center" width="100%" border="1" cellpadding="8" cellspacing="0" bgcolor="#2A1F45">
+  <tr>
+    <td>
+      <table align="center" width="100%" border="1" cellpadding="8" cellspacing="0" bgcolor="#1B1530">
+        <tr>
+          <td align="left"><sub><b>BASIC</b></sub></td>
+          <td align="center"><b>BytesOfJoy <img src="./assets/1.png" alt="Gengar Pixel Mascot" height="28" /></b></td>
+          <td align="right">
+            <sub><b>LV.53 • 130 HP ⚡</b></sub>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center"><sub><b>Rarity:</b> ⭐⭐⭐⭐⭐ <b>Shadow Legend</b></sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center">
+            <table align="center" width="94%" border="1" cellpadding="6" cellspacing="0" bgcolor="#0F0B1D">
+              <tr>
+                <td align="center">
+                  <img src="./assets/arcade-banner.svg" alt="BYTESOFJOY ARCADE" width="100%" />
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center">
+            <img src="./assets/1.png" alt="Gengar Pixel Mascot" height="170" />
+            <br />
+            <sub><b>Signature Avatar: Gengar</b></sub>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center"><sub><b>No.001 Embedded Ranger</b> HT: 6'0" WT: 269 lbs.</sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center"><code>C++ • EMBEDDED LINUX • RTOS • ARM</code></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center"><sub><b>Trainer Bond:</b> 方大同 (Khalil Fong) • <b>Skill Training:</b> Electric Guitar 🎸</sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="left">
+            <b>🌑 Shadow Pulse</b> <b>90+</b><br />
+            <sub>Board bring-up, RTOS timing tuning, and low-level debug strike.</sub>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" align="left">
+            <b>🛡️ Kernel Guard</b> <b>80</b><br />
+            <sub>Harden build chains, isolate regressions, and stabilize release flow.</sub>
+          </td>
+        </tr>
+        <tr>
+          <td align="left"><sub><b>weakness</b> 😴</sub></td>
+          <td align="center"><sub><b>resistance</b> 🐞</sub></td>
+          <td align="right"><sub><b>retreat cost</b> ⚙️⚙️</sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center">
+            <a href="https://github.com/BytesOfJoy?tab=repositories&q=firmware&type=&language="><img src="https://img.shields.io/badge/Firmware-90%25-8E44AD?style=flat-square&labelColor=120F1F" alt="Firmware 90%" /></a>
+            <a href="https://github.com/BytesOfJoy?tab=repositories&q=linux&type=&language="><img src="https://img.shields.io/badge/Linux-80%25-6C5CE7?style=flat-square&labelColor=120F1F" alt="Linux 80%" /></a>
+            <a href="https://github.com/BytesOfJoy?tab=repositories&q=rtos&type=&language="><img src="https://img.shields.io/badge/RTOS-70%25-A55EEA?style=flat-square&labelColor=120F1F" alt="RTOS 70%" /></a>
+            <a href="https://github.com/BytesOfJoy?tab=repositories&q=debug&type=&language="><img src="https://img.shields.io/badge/Debug-80%25-5F27CD?style=flat-square&labelColor=120F1F" alt="Debug 80%" /></a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center">
+            <sub><b>Core Weapons:</b> <code>C++</code>, <code>C</code> • <b>Toolchain:</b> <code>CMake</code>, <code>GDB</code>, <code>JTAG</code> ⚡</sub>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center"><code>━━ QUEST LOG ━━</code></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="left"><sub><b>CURRENT:</b> tighten board-level debug 🐛</sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="left"><sub><b>NEXT:</b> reusable firmware architecture 🏗️</sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="left"><sub><b>RESEARCH:</b> SLAM fundamentals in practice 👁️</sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="left"><sub><b>SKILL TRAINING:</b> electric guitar fundamentals and rhythm drills 🎸</sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center"><sub><em>Flavor Text: 表面是影子，内核是秩序；调试到天亮也不退场。</em></sub></td>
+        </tr>
+        <tr>
+          <td colspan="3" align="center">
+            <img src="https://komarev.com/ghpvc/?username=BytesOfJoy&color=5F27CD&style=flat-square" alt="Profile views" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

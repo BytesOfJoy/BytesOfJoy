@@ -1,91 +1,57 @@
 <svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .bg { fill: #101216; }
-    .grid { stroke: #21262d; stroke-width: 1.5; }
-    .scanline { fill: rgba(0,0,0,0.4); }
-    
-    .title { 
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; 
-      font-size: 68px; 
-      font-weight: 900; 
-      fill: #FF3366; 
-      letter-spacing: 6px;
-      text-anchor: middle; 
-      animation: pulse 3s infinite alternate;
-    }
-    .shadow {
-      fill: rgba(0, 0, 0, 0.8);
-      font-size: 68px; 
-      font-weight: 900; 
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; 
-      letter-spacing: 6px;
-      text-anchor: middle; 
-    }
-    
-    .code-text { 
-      font-family: 'Consolas', 'Courier New', monospace; 
-      font-size: 24px; 
-      fill: #7ee787; 
+    .title {
+      font-family: 'Trebuchet MS', 'Segoe UI', Arial, sans-serif;
+      font-size: 62px;
+      font-weight: 900;
+      fill: #C8A2FF;
+      letter-spacing: 4px;
       text-anchor: middle;
-      font-weight: bold;
-      letter-spacing: 1px;
     }
-
-    @keyframes pulse {
-      0% { filter: brightness(1) drop-shadow(0 0 5px rgba(255,51,102,0.5)); }
-      100% { filter: brightness(1.2) drop-shadow(0 0 15px rgba(255,51,102,0.8)); }
+    .subtitle {
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-size: 22px;
+      font-weight: 700;
+      fill: #BDA6E7;
+      text-anchor: middle;
     }
-    
-    @keyframes flicker {
-      0% { opacity: 0.95; }
-      5% { opacity: 0.85; }
-      10% { opacity: 0.95; }
-      15% { opacity: 1; }
-      100% { opacity: 1; }
-    }
-
-    .scanline {
-      animation: flicker 0.15s infinite;
-    }
-
   </style>
 
   <defs>
-    <!-- Background Grid Pattern -->
-    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid"/>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0714"/>
+      <stop offset="0.55" stop-color="#1A1230"/>
+      <stop offset="1" stop-color="#120D24"/>
+    </linearGradient>
+
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500 130) rotate(90) scale(110 420)">
+      <stop stop-color="#7D4AC7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7D4AC7" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="gridPattern" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#2B2044" stroke-width="1.3"/>
     </pattern>
-    <!-- Scanlines -->
-    <pattern id="scanlinesPattern" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="2" class="scanline"/>
+
+    <pattern id="scanlinePattern" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="rgba(0,0,0,0.35)"/>
     </pattern>
-    
-    <!-- Glow Effect for Text -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
       <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
 
-  <!-- base background -->
-  <rect width="1000" height="260" class="bg" rx="15" />
-  
-  <!-- grid -->
-  <rect width="1000" height="260" fill="url(#gridPattern)" rx="15" />
+  <rect width="1000" height="260" rx="14" fill="url(#bgGrad)"/>
+  <rect width="1000" height="260" rx="14" fill="url(#aura)"/>
+  <rect width="1000" height="260" rx="14" fill="url(#gridPattern)"/>
 
-  <!-- CENTER LAYOUT -->
-  
-  <!-- Main Title Shadow -->
-  <text x="504" y="145" class="shadow" textLength="920" lengthAdjust="spacing">BYTESOFJOY ARCADE</text>
-  <!-- Main Title Glow -->
-  <text x="500" y="140" class="title" filter="url(#glow)" textLength="920" lengthAdjust="spacing">BYTESOFJOY ARCADE</text>
-  
-  <!-- Subtitle -->
-  <text x="500" y="200" class="code-text" fill="#a5d6ff" textLength="860" lengthAdjust="spacing">const vibe = ["Code", "Electric Guitar", "Khalil Music"];</text>
+  <text x="500" y="132" class="title" filter="url(#softGlow)" textLength="800" lengthAdjust="spacing">BYTESOFJOY</text>
+  <text x="500" y="184" class="subtitle" textLength="760" lengthAdjust="spacing">Embedded Firmware Ranger • Gengar Mode</text>
 
-  <!-- Scanlines Overlay -->
-  <rect width="1000" height="260" fill="url(#scanlinesPattern)" rx="15" stroke="#484f58" stroke-width="2"/>
+  <rect width="1000" height="260" rx="14" fill="url(#scanlinePattern)" stroke="#4A3B68" stroke-width="2"/>
 </svg>
