@@ -17,7 +17,7 @@
             <table align="center" width="94%" border="1" cellpadding="6" cellspacing="0" bgcolor="#0F0B1D">
               <tr>
                 <td align="center">
-                  <img src="./assets/arcade-banner.svg" alt="BYTESOFJOY ARCADE" width="100%" />
+                  <img src="./assets/arcade-banner.svg" alt="BYTESOFJOY ARCADE" width="96%" />
                 </td>
               </tr>
             </table>
