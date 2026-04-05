@@ -1,4 +1,4 @@
-<table align="center" width="84%" border="1" cellpadding="8" cellspacing="0" bgcolor="#2A1F45">
+<table align="center" width="92%" border="1" cellpadding="8" cellspacing="0" bgcolor="#2A1F45">
   <tr>
     <td>
       <table align="center" width="100%" border="1" cellpadding="8" cellspacing="0" bgcolor="#1B1530">
@@ -17,7 +17,7 @@
             <table align="center" width="94%" border="1" cellpadding="6" cellspacing="0" bgcolor="#0F0B1D">
               <tr>
                 <td align="center">
-                  <img src="./assets/arcade-banner.svg" alt="BYTESOFJOY ARCADE" width="96%" />
+                  <img src="./assets/arcade-banner.svg" alt="BYTESOFJOY ARCADE" width="90%" />
                 </td>
               </tr>
             </table>
@@ -60,6 +60,7 @@
           <td colspan="3" align="center">
             <a href="https://github.com/BytesOfJoy?tab=repositories&q=firmware&type=&language="><img src="https://img.shields.io/badge/Firmware-90%25-8E44AD?style=flat-square&labelColor=120F1F" alt="Firmware 90%" /></a>
             <a href="https://github.com/BytesOfJoy?tab=repositories&q=linux&type=&language="><img src="https://img.shields.io/badge/Linux-80%25-6C5CE7?style=flat-square&labelColor=120F1F" alt="Linux 80%" /></a>
+            <br />
             <a href="https://github.com/BytesOfJoy?tab=repositories&q=rtos&type=&language="><img src="https://img.shields.io/badge/RTOS-70%25-A55EEA?style=flat-square&labelColor=120F1F" alt="RTOS 70%" /></a>
             <a href="https://github.com/BytesOfJoy?tab=repositories&q=debug&type=&language="><img src="https://img.shields.io/badge/Debug-80%25-5F27CD?style=flat-square&labelColor=120F1F" alt="Debug 80%" /></a>
           </td>
