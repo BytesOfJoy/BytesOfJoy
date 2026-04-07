@@ -86,9 +86,6 @@
           <td colspan="3" align="left"><sub><b>SKILL TRAINING:</b> electric guitar fundamentals and rhythm drills 🎸</sub></td>
         </tr>
         <tr>
-          <td colspan="3" align="center"><sub><em>Flavor Text: 表面是影子，内核是秩序；调试到天亮也不退场。</em></sub></td>
-        </tr>
-        <tr>
           <td colspan="3" align="center">
             <img src="https://komarev.com/ghpvc/?username=BytesOfJoy&color=5F27CD&style=flat-square" alt="Profile views" />
           </td>
